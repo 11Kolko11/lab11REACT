@@ -1,0 +1,13 @@
+.main-content {
+    padding: 50px;
+    text-align: center;
+    background-color: #f4f4f4;
+    min-height: 60vh;
+}
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #61dafb;
+    border: none;
+    cursor: pointer;
+}
